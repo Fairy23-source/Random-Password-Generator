@@ -194,8 +194,4 @@ If you like this project:
 
 Developed by Fairy Solanki
 
----
-
-# 📄 License
-
-This project is open-source and available under the MIT License.
+--
